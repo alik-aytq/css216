@@ -1,13 +1,13 @@
-//fun main() {
+package homework1//fun HW1.HW1.HW1.HW1.HW1.HW1.HW1.HW1.HW1.HW1.main() {
 //    val operatingSystem = "Chrome OS"
 //    val emailId = "sample@gmail.com"
 //
-//    println(displayAlertMessage(operatingSystem, emailId))
+//    println(HW1.displayAlertMessage(operatingSystem, emailId))
 //}
 //
-//// Define your displayAlertMessage() below this line.
+//// Define your HW1.displayAlertMessage() below this line.
 //
-//fun displayAlertMessage(operatingSystem: String, emailId: String): String {
+//fun HW1.displayAlertMessage(operatingSystem: String, emailId: String): String {
 //    return ("There's a new sign-in request on $operatingSystem for your Google Account $emailId")
 //}
 

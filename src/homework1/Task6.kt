@@ -1,4 +1,4 @@
-//fun main() {
+package homework1//fun HW1.HW1.HW1.HW1.HW1.HW1.HW1.HW1.HW1.HW1.main() {
 //    val firstNumber = 10
 //    val secondNumber = 5
 //    val result = firstNumber + secondNumber
@@ -23,7 +23,7 @@ fun main() {
     println("$firstNumber - $thirdNumber = $anotherResult2")
 }
 
-// Define add() function below this line
+// Define HW1.add() function below this line
 fun add(firstNumber: Int, secondNumber: Int): Int {
     return firstNumber + secondNumber
 }

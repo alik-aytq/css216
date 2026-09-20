@@ -1,3 +1,5 @@
+package homework1
+
 fun main() {
     var discountPercentage: Int = 0
     var offer: String = ""

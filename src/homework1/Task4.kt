@@ -1,3 +1,5 @@
+package homework1
+
 fun main() {
     val numberOfAdults = 20
     val numberOfKids = 30

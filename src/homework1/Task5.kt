@@ -1,3 +1,5 @@
+package homework1
+
 fun main() {
     val baseSalary = 5000
     val bonusAmount = 1000

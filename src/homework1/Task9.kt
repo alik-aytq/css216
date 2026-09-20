@@ -1,3 +1,5 @@
+package homework1
+
 fun main() {
     println(compareTime(300, 250))
     println(compareTime(300, 300))

@@ -1,3 +1,5 @@
+package homework1
+
 fun main() {
     printCityWeather("Ankara", 27, 31, 82)
     printCityWeather("Tokyo", 32, 36, 10)

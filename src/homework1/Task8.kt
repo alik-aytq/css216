@@ -1,3 +1,5 @@
+package homework1
+
 fun main() {
     val steps = 4000
     val caloriesBurned = pedometerStepsToCalories(steps)
